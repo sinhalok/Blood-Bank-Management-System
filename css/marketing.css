@@ -1,0 +1,99 @@
+.icon{
+    margin :0;
+    padding:0 6px;
+    width: inherit;
+    float: bottom;
+    box-sizing:border-box;
+    outline:none;
+}
+
+.wrapper {
+    position:relative;
+    background: black;
+
+    overflow:auto;
+
+    top :0;
+    left:0;
+    padding:7px;
+    width :100%;
+    height:100%;
+    background-color:#eee;
+}
+
+.album {
+    background: yellow;
+    width :inherit;
+    max-width:355px;
+    max-height:320px;
+    overflow:hidden;
+    margin-left:80px;
+    margin-bottom:20px;
+    border-radius:3px;
+    background-color:#fff;
+    box-shadow:0 0 3px rgba(0,0,0,.25);
+    transition:all 300ms;
+    float: left;
+}
+
+.album:last-child {
+    margin-bottom:0;
+}
+
+.album .display {
+    position:relative;
+    width :100%;
+    height:100%;
+}
+
+.album .display .pic {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    overflow:hidden;
+    width :auto;
+    height:260px;
+    background-color:#ddd;
+}
+
+.album .display .pic img {
+    height:100%;
+    width: 100%;
+}
+
+.album .display .name {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width :100%;
+    height:60px;
+    color:#454546;
+    font-size:20px;
+}
+
+.album .detail {
+
+
+    background-color: blue;
+    width:auto;
+  font-size: 10px;
+    text-align:justify;
+    color:#454546;
+}
+
+.album:first-child .detail{
+    padding:20px;
+}
+
+.album :hover{
+    max-height:2000px;
+    transform:scale(1.05);
+    margin-bottom:40px;
+}
+
+a {
+    color:#888;
+    text-decoration:;
+}
+
+

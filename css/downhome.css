@@ -1,0 +1,58 @@
+.downhome{
+   position:relative;
+  
+   top: 4px;
+  
+
+    padding-top: 20px;
+  
+    width :auto;
+    height:auto;
+ 
+    background: #F5F5F5;
+
+  
+
+
+}
+.downhome_title{
+    font-size: 45px;
+    position: relative;
+    font-family: fantasy;
+    left: 20%;
+    width: auto;
+    color: red;
+    
+    
+}
+.downhome_content{
+   background: #F5F5F5;
+    width: auto;height: auto;
+
+    font-family: serif;
+    position: relative;
+    font-size: 20px;
+
+   
+    
+
+}
+.bot{
+    height: 50px;
+    width: 200px;  
+    font-family: serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+    line-height: normal;
+
+
+    border-radius: 25px;
+  
+
+}
+.bot .p{
+    color: ivory;
+    
+}

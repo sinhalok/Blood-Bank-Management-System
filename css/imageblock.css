@@ -1,0 +1,130 @@
+.imageblock{
+    height: 100px;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    color: white;
+    background: red;
+}
+.imageblock img{
+    height: 100%;
+    width: 100%;
+}
+.image_quote{
+   font-size: 45px;
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -40%);
+    width: 100%
+        
+   
+}
+/* mission css*/
+.Mission{
+   position:relative;
+  
+   top: 40px;
+
+    padding-top: 20px;
+  
+    width :auto;
+    height:100%;
+    background: #F5F5F5;
+
+
+}
+.Mission_title{
+    font-size: 45px;
+    position: relative;
+    font-family: fantasy;
+    left: 45%;
+    width: auto;
+    color: red;
+    
+}
+.Mission_content{
+   background: #F5F5F5;
+    width: 75%;
+    left: 13%;
+    font-family: serif;
+    position: relative;
+    font-size: 20px;
+
+}
+
+
+/*goal css*/
+
+
+.Goal{
+   position:relative;
+  
+   top: 90px;
+    bottom: 50px;
+
+    padding-top: 20px;
+  
+    width :auto;
+    height:100%;
+    background: #F5F5F5;
+  
+
+
+}
+.Goal_title{
+    font-size: 45px;
+    position: relative;
+    font-family: fantasy;
+    left: 40%;
+    width: auto;
+    color: red;
+    
+}
+.Goal_content{
+   background: #F5F5F5;
+    width: 75%;
+    left: 13%;
+    font-family: serif;
+    position: relative;
+    font-size: 20px;
+    
+
+}
+/* icon css */
+
+.icon{
+    
+    padding-top: 30px;
+    background: #F5F5F5;
+    margin-top: 108px;
+   
+}
+
+h2{
+       font-size: 45px;
+    position: relative;
+    font-family: fantasy;
+    left: 40%;
+    width: auto;
+    padding-bottom: 10px;
+    color: red;
+    
+    
+}
+.blood_list_block{
+    height: 100%;
+    padding-top: 35px;
+    top: 20px;
+    width: auto;
+    position: relative;
+    background: #F5F5F5;
+   
+    margin-bottom: 40px;
+    
+    
+}
+.blood_list img{
+    height: 400px;
+    width: 100%; 
+}

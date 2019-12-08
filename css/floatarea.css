@@ -1,0 +1,24 @@
+
+
+.bot{
+     position: -webkit-sticky;
+  position: sticky;
+    position: fixed;
+  width: 200px;
+  float: right;
+  top: 80%;
+  left:81%;
+    height: 50px;
+ 
+  background-color: rgb(255,0,0,0.4);
+  padding-top: 10px;
+  font-size: 20px;
+    
+ 
+  
+}
+
+
+.bot a{
+    color: azure;
+}

@@ -1,0 +1,18 @@
+.logo{
+    height: 100px;
+    width: 100px;
+  
+}
+
+.navbar{
+    height: auto;
+    width: auto;   
+}
+.fixed-top{
+    display: inline-block;
+    background: aqua;
+}
+.my-4{
+    background: red;  
+}
+    /* services css */
